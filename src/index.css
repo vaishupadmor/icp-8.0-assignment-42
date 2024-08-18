@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #FFEAC9;
+}
+.images{
+    height: 50px ;
+    object-fit: cover;
+    position: fixed;
+    top:60px;
+    left: 1px;
+    background-color: #000;
+    border-radius: 50%;
+}
+
+.heading{
+    
+    color: #000;
+    border-radius: 30px;
+    text-align: center;
+    width: 80px;
+    position: fixed;
+    left:60px;
+    top:50px;
+}
+
+.heading-1{
+    color: #000;
+    border-radius: 30px;
+    text-align: center;
+    width: 80px;
+    position: fixed;
+    left:80px;
+    top:50px;
+}
+
+.images-1{
+    height: 50px ;
+    object-fit: cover;
+    position: fixed;
+    top:60px;
+    left: 1px;
+    background-color: #000;
+    border-radius: 50%;
+}

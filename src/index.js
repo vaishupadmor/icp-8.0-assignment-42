@@ -1,8 +1,8 @@
 import {createRoot} from "react-dom/client";
  import ".//index.css"
 
-import Home from "./views/home/home"
-import About from "./views/about/about"
+import Home from "./view/home/home"
+import About from "./view/about/about"
 
 import { createBrowserRouter,RouterProvider } from "react-router-dom";
 

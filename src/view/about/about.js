@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from "./../../component/navbar/navbar"
-import aboutimg from "./../about/about.jpg"
+import aboutimg from "./../about/about.avif"
 import Footer from "./../../component/footer/footer"
 import {Staffinfo} from "./../../component/foodcard/foodcard"
 import { PERSONS,MAIN_NAMES ,TAG_LINES ,THEME} from './../../config/data1'
@@ -14,7 +14,7 @@ function about() {
        
 
         <div >
-        <h1 className='food-title' style={{color:THEME.highlight , padding:0 , margin:0}}> {MAIN_NAMES}</h1>
+        <h1 className='food-title' style={{color:THEME.main , padding:0 , margin:0}}> {MAIN_NAMES}</h1>
         <p className='food-tagline'>{TAG_LINES}</p>
      
         <div className='food-card-container'>  

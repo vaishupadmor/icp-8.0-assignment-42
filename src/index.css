@@ -1,14 +1,15 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #FFEAC9;
+    background-color: #ECB176;
 }
 .images{
     height: 50px ;
     object-fit: cover;
-    position: fixed;
+    position: sticky;
+    
     top:60px;
-    left: 1px;
+    left: 20px;
     background-color: #000;
     border-radius: 50%;
 }
@@ -20,8 +21,8 @@ body{
     text-align: center;
     width: 80px;
     position: fixed;
-    left:60px;
-    top:50px;
+    left:90px;
+    top:40px;
 }
 
 .heading-1{

@@ -3,11 +3,14 @@
     border:1px solid #ccc;
     border-radius: 6px;
     margin: 10px;
+    margin-left: 20px;
     padding: 10px 20px ;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     cursor: pointer;
     position: relative;
-    background-color: #FF616D;
+    background-color: #A87C7C;
+    display: block;
+   
 }
 
 .food-card:hover{
@@ -36,12 +39,13 @@ height: 25px;
 border-radius: 10px;
 object-fit: cover;
 height: 180px;
+background-color: black;
 }
 .food-card-price{
     font-size: 23px;
 }
 .food-card-button{
-    background-color: #66DE93;
+    background-color: #FED8B1;
     display: block;
     margin: 10px auto;
     border: none;

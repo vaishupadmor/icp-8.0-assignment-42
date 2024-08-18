@@ -1,15 +1,15 @@
 import React from 'react'
 import "./navbar.css"
 import {Link } from "react-router-dom"
-import flowerimg from "./navbar-img.avif"
+import pastryimg from "./pastry-icon.jpg"
 
 function navbar() {
   return (
 
     <div className='navbar'>
 
-      <img src={flowerimg} style={{height:40}}/>
-       <span className='brand-name'  >  desserts</span> 
+      <img src={pastryimg} style={{height:40}}/>
+       <span className='brand-name'  >  pastry</span> 
 
         <div className='navbar-link'>
 

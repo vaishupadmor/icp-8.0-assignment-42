@@ -2,11 +2,11 @@ const MAIN_NAMES ="staff info.."
 const TAG_LINES ="we work to make world a beautiful place"
 
 const THEME = {
-    main:"#C0C78C",
-    highlight:"#A6B37D",
-    primary:"C0C78C",
-    secondary:"#B99470",
-    
+  main:"#503C3C",
+  highlight:"#3E3232",
+  primary:"FF616D",
+  secondary:"#B99470",
+  
 }
 
 

@@ -9,7 +9,10 @@ const footerstyle=
     textAlign: "center",
     padding: "6",
     position: "fixed",
+    indexZ:1,
     bottom: "0",
+    margin:"0",
+    padding:"0",
     width:"100%" 
   
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from "./../../component/navbar/navbar"
-import homeimg from "./../home/home-1.jpg"
+import homeimg from "./../home/home.avif"
 import Foodcard from "./../../component/foodcard/foodcard"
 import Footer from "./../../component/footer/footer"
 import "./home.css"
